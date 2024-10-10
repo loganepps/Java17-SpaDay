@@ -1,0 +1,49 @@
+body {
+    background-color: pink;
+    font-family: "Rubik", sans-serif;
+}
+
+div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+}
+
+h1 {
+    margin: auto;
+        width: 50%;
+        padding: 10px;
+        text-align: center;
+        background-color: white;
+}
+
+h1, h2 {
+      font-family: "Marcellus", serif;
+      font-weight: bold;
+      text-decoration-line: underline;
+}
+
+table {
+    margin: auto;
+            width: 50%;
+            padding: 10px;
+            text-align: center;
+}
+
+#polish-collection {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    background-color: white;
+    padding-bottom: 30px;
+}
+
+.polish-sample {
+    height: 40px;
+    width: 40px;
+    margin: 0;
+    padding: 0;
+}
